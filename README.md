@@ -2,21 +2,21 @@ Análise de Desempenho de Jogos 🎮
 
 Projeto de análise de dados desenvolvido com Python como parte da formação em Análise de Dados pela TripleTen.
 
-## 📌 Objetivo
+## Objetivo
 Explorar dados de jogos para identificar padrões de desempenho entre jogadores.
 
-## 🛠️ Tecnologias
+## Tecnologias
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 
-## 📊 Análises realizadas
+## Análises realizadas
 - Tempo de jogo e performance por jogador
 - Distribuição de níveis completados
 - Gráficos de linha e dispersão para visualização
 
-## 📁 Arquivo
+## Arquivo
 - `analise_jogos.ipynb` – Notebook com todo o processo
 
 ---
